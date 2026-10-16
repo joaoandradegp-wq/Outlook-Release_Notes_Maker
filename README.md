@@ -22,11 +22,39 @@
 
 ## 📌 About the Project
 
-The **Outlook Release Notes Maker** automates the collection of GMUD-related requests and approvals from Outlook Web and generates a standardized PowerPoint presentation.
+<p>
+<b>GMUD Release Notes Maker</b> is a tool designed to automate the creation of <b>GMUD</b> presentations using information available in <b>Outlook Web</b>.
+</p>
 
-The project combines **Node.js, Playwright, and Python** to extract email information, capture approval evidence, and populate a PowerPoint template, reducing manual work in the release documentation process.
+<p>
+The system accesses the mailbox through a browser, locates messages related to GMUD business approvals, identifies the selected reporting period, extracts requests listed in the <b>Source Record</b> field, and captures the corresponding approval requests and responses.
+</p>
 
-For setup instructions, features, project structure, configuration, and troubleshooting, choose your preferred language above.
+<p>
+After collecting the information, the data is passed to a Python script that fills in a <b>PowerPoint (.pptx)</b> template while preserving the visual identity defined by the template.
+</p>
+
+<p align="center">
+  <b>Outlook → GMUD Emails → Source Record → Requests → Approvals → PowerPoint</b>
+</p>
+
+---
+
+<h2>🛠️ Technologies</h2>
+
+<ul>
+  <li>Node.js</li>
+  <li>JavaScript</li>
+  <li>Playwright</li>
+  <li>Outlook Web</li>
+  <li>Python</li>
+  <li>python-pptx</li>
+  <li>Pillow</li>
+  <li>PowerPoint / PPTX</li>
+  <li>JSON</li>
+  <li>Regular expressions (Regex)</li>
+  <li>HTML</li>
+</ul>
 
 ---
 
