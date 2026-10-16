@@ -34,10 +34,6 @@ The system accesses the mailbox through a browser, locates messages related to G
 After collecting the information, the data is passed to a Python script that fills in a <b>PowerPoint (.pptx)</b> template while preserving the visual identity defined by the template.
 </p>
 
-<p align="center">
-  <b>Outlook → GMUD Emails → Source Record → Requests → Approvals → PowerPoint</b>
-</p>
-
 ---
 
 <h2>🛠️ Technologies</h2>
