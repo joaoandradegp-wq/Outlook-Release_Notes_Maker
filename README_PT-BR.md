@@ -72,6 +72,23 @@ O Node.js abre o Outlook Web através do Playwright em modo visual, permitindo q
 
 ---
 
+## ⚙️ Instalação
+
+**Pré-requisitos:** Node.js e npm instalados.
+
+1. Clone o repositório.
+2. Instale as dependências:
+
+   ```bash
+   npm ci
+   ```
+
+3. Execute o aplicativo conforme as instruções deste README.
+
+**Observação:** A pasta `node_modules` é criada automaticamente durante a instalação. A sessão de autenticação do Outlook (`.owa-session`) é local e não deve ser compartilhada ou versionada no GitHub.
+
+---
+
 <h2>🚀 Principais funcionalidades</h2>
 
 <ul>
