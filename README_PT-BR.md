@@ -1049,24 +1049,6 @@ Se um deles não for localizado, o par correspondente não é incluído no slide
 
 ---
 
-<h2>🛠 Tecnologias</h2>
-
-<ul>
-  <li>Node.js</li>
-  <li>JavaScript</li>
-  <li>Playwright</li>
-  <li>Outlook Web</li>
-  <li>Python</li>
-  <li>python-pptx</li>
-  <li>Pillow</li>
-  <li>PowerPoint / PPTX</li>
-  <li>JSON</li>
-  <li>Regex</li>
-  <li>HTML</li>
-</ul>
-
----
-
 <p align="center">
 <b>GMUD Release Notes Maker</b> automatiza a coleta de demandas e aprovações diretamente do Outlook e transforma essas informações em uma apresentação PowerPoint padronizada, reduzindo o trabalho manual na preparação dos materiais de GMUD e mantendo a estrutura visual definida pelo template. 📑
 </p>
