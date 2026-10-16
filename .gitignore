@@ -10,3 +10,4 @@ output/*.png
 
 templates/release_para_dev.pptx
 !templates/.gitkeep
+/output

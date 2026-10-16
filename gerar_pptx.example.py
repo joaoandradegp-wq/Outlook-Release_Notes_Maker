@@ -202,4 +202,3 @@ if __name__ == "__main__":
         aprovacoes=cfg.get("aprovacoes", []),
     )
     print(caminho_gerado)
-
