@@ -26,7 +26,7 @@ if errorlevel 1 (
 if "%MES:~0,1%"=="0" set "MES=%MES:~1%"
 
 set "GMUD_MES=%MES%"
-set "GMUD_PYTHON=C:\Users\joaoa\AppData\Local\Programs\Python\Python313\python.exe"
+set "GMUD_PYTHON=%LOCALAPPDATA%\Programs\Python\Python313\python.exe"
 echo.
 echo Rodando para o mes %GMUD_MES%...
 echo.
