@@ -72,6 +72,23 @@ Node.js opens Outlook Web through Playwright in headed mode, allowing the user t
 
 ---
 
+## ⚙️ Installation
+
+**Prerequisites:** Node.js and npm installed.
+
+1. Clone the repository.
+2. Install the dependencies:
+
+   ```bash
+   npm ci
+   ```
+
+3. Run the application according to the instructions in this README.
+
+**Note:** The `node_modules` folder is automatically created during dependency installation. The Outlook authentication session (`.owa-session`) is stored locally and must not be shared or committed to GitHub.
+
+---
+
 <h2>🚀 Key Features</h2>
 
 <ul>
