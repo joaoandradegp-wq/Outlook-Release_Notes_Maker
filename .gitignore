@@ -6,8 +6,8 @@ node_modules/
 
 output/*.pptx
 output/*.png
+output/*.json
 !output/.gitkeep
 
 templates/release_para_dev.pptx
 !templates/.gitkeep
-/output
